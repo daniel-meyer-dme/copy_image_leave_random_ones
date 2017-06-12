@@ -1,0 +1,1 @@
+# copy_image_leave_random_ones
